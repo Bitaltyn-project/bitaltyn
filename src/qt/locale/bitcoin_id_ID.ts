@@ -62,11 +62,11 @@
         <translation>Alamat-alamat menerima</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Alamat-alamat Anda supaya mengirim pembayaran. Periksalah jumlah dan alamat penerima setiap kali Anda mengirim Litecoin.</translation>
+        <source>These are your Bitaltyn addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Alamat-alamat Anda supaya mengirim pembayaran. Periksalah jumlah dan alamat penerima setiap kali Anda mengirim Bitaltyn.</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Bitaltyn addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>Alamat-alamat Anda supaya menerima pembayaran. Dianjurkan agar Anda menggunakan alamat menerima yang baru untuk setiap transaksi.</translation>
     </message>
     <message>
@@ -172,8 +172,8 @@
         <translation>Dompet terenkripsi</translation>
     </message>
     <message>
-        <source>Litecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Litecoin akan menutup untuk menyelesaikan proses enkripsi. Ingat bahwa dengan mengenkripsi dompet Anda tidak sepenuhnya melindungi litecoin Anda dari perangkat lunak berbahaya yang menginfeksi komputer Anda.</translation>
+        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
+        <translation>Bitaltyn akan menutup untuk menyelesaikan proses enkripsi. Ingat bahwa dengan mengenkripsi dompet Anda tidak sepenuhnya melindungi litecoin Anda dari perangkat lunak berbahaya yang menginfeksi komputer Anda.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -275,8 +275,8 @@
         <translation>Buka &amp;URI</translation>
     </message>
     <message>
-        <source>Litecoin Core client</source>
-        <translation>Client Litecoin Inti</translation>
+        <source>Bitaltyn Core client</source>
+        <translation>Client Bitaltyn Inti</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -287,12 +287,12 @@
         <translation>Mengindex ulang block di harddisk...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Kirim koin ke alamat Litecoin</translation>
+        <source>Send coins to a Bitaltyn address</source>
+        <translation>Kirim koin ke alamat Bitaltyn</translation>
     </message>
     <message>
-        <source>Modify configuration options for Litecoin</source>
-        <translation>Ubah pilihan konfigurasi untuk Litecoin</translation>
+        <source>Modify configuration options for Bitaltyn</source>
+        <translation>Ubah pilihan konfigurasi untuk Bitaltyn</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -315,8 +315,8 @@
         <translation>&amp;Verifikasi pesan...</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>Bitaltyn</source>
+        <translation>Bitaltyn</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -331,8 +331,8 @@
         <translation>&amp;Menerima</translation>
     </message>
     <message>
-        <source>Show information about Litecoin Core</source>
-        <translation>Tampilkan informasi tentang Litecoin Inti</translation>
+        <source>Show information about Bitaltyn Core</source>
+        <translation>Tampilkan informasi tentang Bitaltyn Inti</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -347,12 +347,12 @@
         <translation>Mengenkripsi kunci-kunci pribadi yang dipunyai dompetmu</translation>
     </message>
     <message>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Tandalah pesanan dengan alamat-alamat Litecoin Anda supaya membuktikan pesanan itu dikirim oleh Anda</translation>
+        <source>Sign messages with your Bitaltyn addresses to prove you own them</source>
+        <translation>Tandalah pesanan dengan alamat-alamat Bitaltyn Anda supaya membuktikan pesanan itu dikirim oleh Anda</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Periksakan pesan-pesan supaya menjaminkan ditandatangani oleh alamat Litecoin yang terperinci</translation>
+        <source>Verify messages to ensure they were signed with specified Bitaltyn addresses</source>
+        <translation>Periksakan pesan-pesan supaya menjaminkan ditandatangani oleh alamat Bitaltyn yang terperinci</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -371,16 +371,16 @@
         <translation>Baris tab</translation>
     </message>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin Core</translation>
+        <source>Bitaltyn Core</source>
+        <translation>Bitaltyn Core</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and litecoin: URIs)</source>
         <translation>Permintaan pembayaran (membangkitkan kode QR dan litecoin: URIs)</translation>
     </message>
     <message>
-        <source>&amp;About Litecoin Core</source>
-        <translation>&amp;Mengenai Litecoin Core</translation>
+        <source>&amp;About Bitaltyn Core</source>
+        <translation>&amp;Mengenai Bitaltyn Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -399,12 +399,12 @@
         <translation>&amp;pilihan Perintah-baris</translation>
     </message>
     <message>
-        <source>Show the Litecoin Core help message to get a list with possible Litecoin command-line options</source>
-        <translation>Tampilkan pesan bantuan Litecoin Core untuk memberikan daftar pilihan perintah-baris yang memungkinkan dalam aplikasi Litecoin</translation>
+        <source>Show the Bitaltyn Core help message to get a list with possible Bitaltyn command-line options</source>
+        <translation>Tampilkan pesan bantuan Bitaltyn Core untuk memberikan daftar pilihan perintah-baris yang memungkinkan dalam aplikasi Bitaltyn</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Litecoin network</source>
-        <translation><numerusform>%n hubungan aktif ke jaringan Litecoin</numerusform></translation>
+        <source>%n active connection(s) to Bitaltyn network</source>
+        <translation><numerusform>%n hubungan aktif ke jaringan Bitaltyn</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -740,8 +740,8 @@ Alamat: %4
         <translation>Alamat yang dimasukkan "%1" sudah ada di dalam buku alamat.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Litecoin address.</source>
-        <translation>Alamat yang dimasukkan "%1" bukan alamat Litecoin yang benar.</translation>
+        <source>The entered address "%1" is not a valid Bitaltyn address.</source>
+        <translation>Alamat yang dimasukkan "%1" bukan alamat Bitaltyn yang benar.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -778,16 +778,16 @@ Alamat: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin Core</translation>
+        <source>Bitaltyn Core</source>
+        <translation>Bitaltyn Core</translation>
     </message>
     <message>
         <source>version</source>
         <translation>versi</translation>
     </message>
     <message>
-        <source>About Litecoin Core</source>
-        <translation>Mengenai Litecoin Core</translation>
+        <source>About Bitaltyn Core</source>
+        <translation>Mengenai Bitaltyn Core</translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -821,8 +821,8 @@ Alamat: %4
         <translation>Selamat Datang</translation>
     </message>
     <message>
-        <source>Welcome to Litecoin Core.</source>
-        <translation>Selamat Datang ke Litecoin Core</translation>
+        <source>Welcome to Bitaltyn Core.</source>
+        <translation>Selamat Datang ke Bitaltyn Core</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -833,8 +833,8 @@ Alamat: %4
         <translation>Menggunakan direktori data yang dipilih Anda:</translation>
     </message>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin Core</translation>
+        <source>Bitaltyn Core</source>
+        <translation>Bitaltyn Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -879,12 +879,12 @@ Alamat: %4
         <translation>&amp;Utama</translation>
     </message>
     <message>
-        <source>Automatically start Litecoin after logging in to the system.</source>
-        <translation>Menyalakan Litecoin secara otomatis setelah masuk ke dalam sistem.</translation>
+        <source>Automatically start Bitaltyn after logging in to the system.</source>
+        <translation>Menyalakan Bitaltyn secara otomatis setelah masuk ke dalam sistem.</translation>
     </message>
     <message>
-        <source>&amp;Start Litecoin on system login</source>
-        <translation>&amp;Menyalakan Litecoin pada login sistem</translation>
+        <source>&amp;Start Bitaltyn on system login</source>
+        <translation>&amp;Menyalakan Bitaltyn pada login sistem</translation>
     </message>
     <message>
         <source>MB</source>
@@ -935,8 +935,8 @@ Alamat: %4
         <translation>&amp;Perubahan saldo untuk transaksi yang belum dikonfirmasi</translation>
     </message>
     <message>
-        <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Otomatis membuka port client Litecoin di router. Hanya berjalan apabila router anda mendukung UPnP dan di-enable.</translation>
+        <source>Automatically open the Bitaltyn client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Otomatis membuka port client Bitaltyn di router. Hanya berjalan apabila router anda mendukung UPnP dan di-enable.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -983,8 +983,8 @@ Alamat: %4
         <translation>&amp;Bahasa Antarmuka Pengguna:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Litecoin.</source>
-        <translation>Tampilan bahasa pengguna dapat diatur disini. Pengaturan ini akan berpengaruh setelah memulai kembali aplikasi Litecoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Bitaltyn.</source>
+        <translation>Tampilan bahasa pengguna dapat diatur disini. Pengaturan ini akan berpengaruh setelah memulai kembali aplikasi Bitaltyn.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1042,8 +1042,8 @@ Alamat: %4
         <translation>Formulir</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informasi terlampir mungkin sudah kedaluwarsa. Dompet Anda secara otomatis mensinkronisasi dengan jaringan Litecoin ketika sebuah hubungan terbentuk, namun proses ini belum selesai.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitaltyn network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informasi terlampir mungkin sudah kedaluwarsa. Dompet Anda secara otomatis mensinkronisasi dengan jaringan Bitaltyn ketika sebuah hubungan terbentuk, namun proses ini belum selesai.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1257,16 +1257,16 @@ Alamat: %4
         <translation>Berkas catatan debug</translation>
     </message>
     <message>
-        <source>Open the Litecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Buka berkas catatan debug Litecoin dari direktori data sekarang. Hal ini dapat memakan waktu beberapa detik untuk berkas catatan yang besar.</translation>
+        <source>Open the Bitaltyn debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Buka berkas catatan debug Bitaltyn dari direktori data sekarang. Hal ini dapat memakan waktu beberapa detik untuk berkas catatan yang besar.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Bersihkan konsol</translation>
     </message>
     <message>
-        <source>Welcome to the Litecoin RPC console.</source>
-        <translation>Selamat datang ke konsol RPC Litecoin.</translation>
+        <source>Welcome to the Bitaltyn RPC console.</source>
+        <translation>Selamat datang ke konsol RPC Bitaltyn.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1609,8 +1609,8 @@ Alamat: %4
         <translation>Gagal: Transaksi ditolak. Ini mungkin terjadi jika beberapa dari koin dalam dompet Anda telah digunakan, seperti ketika Anda menggunakan salinan wallet.dat dan beberapa koin telah dibelanjakan dalam salinan tersebut tetapi disini tidak tertandai sebagai terpakai.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Litecoin address</source>
-        <translation>Awas: Alamat Litecoin tidak sah</translation>
+        <source>Warning: Invalid Bitaltyn address</source>
+        <translation>Awas: Alamat Bitaltyn tidak sah</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1695,8 +1695,8 @@ Alamat: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Litecoin Core is shutting down...</source>
-        <translation>Litecoin Core sementara dimatikan...</translation>
+        <source>Bitaltyn Core is shutting down...</source>
+        <translation>Bitaltyn Core sementara dimatikan...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1742,8 +1742,8 @@ Alamat: %4
         <translation>Salin tanda tangan terpilih ke sistem klipboard</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Litecoin address</source>
-        <translation>Tandai pesan untuk menyetujui kamu pemiliki alamat Litecoin ini</translation>
+        <source>Sign the message to prove you own this Bitaltyn address</source>
+        <translation>Tandai pesan untuk menyetujui kamu pemiliki alamat Bitaltyn ini</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1821,8 +1821,8 @@ Alamat: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin Core</translation>
+        <source>Bitaltyn Core</source>
+        <translation>Bitaltyn Core</translation>
     </message>
     <message>
         <source>The Bitcoin Core developers</source>
@@ -2307,8 +2307,8 @@ Alamat: %4
         <translation>Jalankan perintah ketika perubahan transaksi dompet (%s di cmd digantikan oleh TxID)</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Litecoin Core is probably already running.</source>
-        <translation>Tidak bisa mengikat dengan %s di computer ini. Kemungkinan Litecoin Core sudah mulai.</translation>
+        <source>Unable to bind to %s on this computer. Bitaltyn Core is probably already running.</source>
+        <translation>Tidak bisa mengikat dengan %s di computer ini. Kemungkinan Bitaltyn Core sudah mulai.</translation>
     </message>
     <message>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
@@ -2431,8 +2431,8 @@ Alamat: %4
         <translation>Impor blok dari eksternal berkas blk000???.dat</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Litecoin Core is probably already running.</source>
-        <translation>Tidak bisa mengunci data directory %s. Kemungkinan Litecoin Core sudah mulai.</translation>
+        <source>Cannot obtain a lock on data directory %s. Bitaltyn Core is probably already running.</source>
+        <translation>Tidak bisa mengunci data directory %s. Kemungkinan Bitaltyn Core sudah mulai.</translation>
     </message>
     <message>
         <source>Information</source>

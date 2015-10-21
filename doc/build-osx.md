@@ -104,9 +104,9 @@ Creating a release build
 ------------------------
 You can ignore this section if you are building `litecoind` for your own use.
 
-litecoind/litecoin-cli binaries are not included in the Litecoin-Qt.app bundle.
+litecoind/litecoin-cli binaries are not included in the Bitaltyn-Qt.app bundle.
 
-If you are building `litecoind` or `Litecoin-Qt` for others, your build machine should be set up
+If you are building `litecoind` or `Bitaltyn-Qt` for others, your build machine should be set up
 as follows for maximum compatibility:
 
 All dependencies should be compiled with these flags:
@@ -115,7 +115,7 @@ All dependencies should be compiled with these flags:
  -arch x86_64
  -isysroot $(xcode-select --print-path)/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
 
-Once dependencies are compiled, see release-process.md for how the Litecoin-Qt.app
+Once dependencies are compiled, see release-process.md for how the Bitaltyn-Qt.app
 bundle is packaged and signed to create the .dmg disk image that is distributed.
 
 Running
@@ -127,14 +127,14 @@ directory. We have to first create the RPC configuration file, though.
 Run `./litecoind` to get the filename where it should be put, or just try these
 commands:
 
-    echo -e "rpcuser=litecoinrpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/Litecoin/litecoin.conf"
-    chmod 600 "/Users/${USER}/Library/Application Support/Litecoin/litecoin.conf"
+    echo -e "rpcuser=litecoinrpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/Bitaltyn/litecoin.conf"
+    chmod 600 "/Users/${USER}/Library/Application Support/Bitaltyn/litecoin.conf"
 
 The next time you run it, it will start downloading the blockchain, but it won't
 output anything while it's doing this. This process may take several hours;
 you can monitor its process by looking at the debug.log file, like this:
 
-    tail -f $HOME/Library/Application\ Support/Litecoin/debug.log
+    tail -f $HOME/Library/Application\ Support/Bitaltyn/debug.log
 
 Other commands:
 -------

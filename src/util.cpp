@@ -373,13 +373,13 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-    // Windows < Vista: C:\Documents and Settings\Username\Application Data\Litecoin
-    // Windows >= Vista: C:\Users\Username\AppData\Roaming\Litecoin
-    // Mac: ~/Library/Application Support/Litecoin
+    // Windows < Vista: C:\Documents and Settings\Username\Application Data\Bitaltyn
+    // Windows >= Vista: C:\Users\Username\AppData\Roaming\Bitaltyn
+    // Mac: ~/Library/Application Support/Bitaltyn
     // Unix: ~/.litecoin
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "Litecoin";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "Bitaltyn";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -391,7 +391,7 @@ boost::filesystem::path GetDefaultDataDir()
     // Mac
     pathRet /= "Library/Application Support";
     TryCreateDirectory(pathRet);
-    return pathRet / "Litecoin";
+    return pathRet / "Bitaltyn";
 #else
     // Unix
     return pathRet / ".litecoin";
