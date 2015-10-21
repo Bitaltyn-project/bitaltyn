@@ -184,8 +184,8 @@
         <translation>Introduïu la contrasenya nova al moneder.&lt;br/&gt;Utilitzeu una contrasenya de &lt;b&gt;deu o més caràcters aleatoris&lt;/b&gt;, o &lt;b&gt;vuit o més paraules&lt;/b&gt;.</translation>
     </message>
     <message>
-        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitaltyn es tancarà ara per acabar el procés d'encriptació. Recordeu que encriptar el moneder no protegeix completament els litecoins de ser robats per programari maliciós instal·lat a l'ordinador.</translation>
+        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitaltyns from being stolen by malware infecting your computer.</source>
+        <translation>Bitaltyn es tancarà ara per acabar el procés d'encriptació. Recordeu que encriptar el moneder no protegeix completament els bitaltyns de ser robats per programari maliciós instal·lat a l'ordinador.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -308,7 +308,7 @@
     </message>
     <message>
         <source>Modify configuration options for Bitaltyn</source>
-        <translation>Modifica les opcions de configuració per litecoin</translation>
+        <translation>Modifica les opcions de configuració per bitaltyn</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -391,8 +391,8 @@
         <translation>Nucli de Bitaltyn</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Sol·licita pagaments (genera codis QR i litecoin: URI)</translation>
+        <source>Request payments (generates QR codes and bitaltyn: URIs)</source>
+        <translation>Sol·licita pagaments (genera codis QR i bitaltyn: URI)</translation>
     </message>
     <message>
         <source>&amp;About Bitaltyn Core</source>
@@ -407,8 +407,8 @@
         <translation>Mostra la llista d'adreces de recepció i etiquetes utilitzades</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Obri una litecoin: sol·licitud d'URI o pagament</translation>
+        <source>Open a bitaltyn: URI or payment request</source>
+        <translation>Obri una bitaltyn: sol·licitud d'URI o pagament</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1189,8 +1189,8 @@ Address: %4
         <translation>Error en la sol·licitud de pagament</translation>
     </message>
     <message>
-        <source>Cannot start litecoin: click-to-pay handler</source>
-        <translation>No es pot iniciar litecoin: gestor clica-per-pagar</translation>
+        <source>Cannot start bitaltyn: click-to-pay handler</source>
+        <translation>No es pot iniciar bitaltyn: gestor clica-per-pagar</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -1960,8 +1960,8 @@ Address: %4
         <translation>Introduïu una etiqueta per a esta adreça per afegir-la a la llista d'adreces utilitzades</translation>
     </message>
     <message>
-        <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitaltyn network.</source>
-        <translation>Un missatge que s'ha adjuntat al litecoin: URI que s'emmagatzemarà amb la transacció per a la vostra referència. Nota: el missatge no s'enviarà a través de la xarxa Bitaltyn.</translation>
+        <source>A message that was attached to the bitaltyn: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitaltyn network.</source>
+        <translation>Un missatge que s'ha adjuntat al bitaltyn: URI que s'emmagatzemarà amb la transacció per a la vostra referència. Nota: el missatge no s'enviarà a través de la xarxa Bitaltyn.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>

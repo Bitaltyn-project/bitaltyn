@@ -1,7 +1,7 @@
 Bitaltyn Core integration/staging tree
 =====================================
 
-https://litecoin.org
+https://bitaltyn.org
 
 What is Bitaltyn?
 ----------------
@@ -13,7 +13,7 @@ out collectively by the network. Bitaltyn Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Bitaltyn Core software, see https://litecoin.org
+the Bitaltyn Core software, see https://bitaltyn.org
 
 License
 -------
@@ -32,7 +32,7 @@ development team members simply pulls it.
 
 If it is a *more complicated or potentially controversial* change, then the patch
 submitter will be asked to start a discussion (if they haven't already) on the
-[mailing list](https://groups.google.com/forum/#!forum/litecoin-dev).
+[mailing list](https://groups.google.com/forum/#!forum/bitaltyn-dev).
 
 The patch will be accepted if there is broad consensus that it is a good thing.
 Developers should expect to rework and resubmit patches if the code doesn't
@@ -40,7 +40,7 @@ match the project's coding conventions (see [doc/coding.md](doc/coding.md)) or a
 controversial.
 
 The `master-0.10` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/litecoin-project/litecoin/tags) are created
+completely stable. [Tags](https://github.com/bitaltyn-project/bitaltyn/tags) are created
 regularly to indicate new official, stable release versions of Bitaltyn.
 
 Testing
@@ -55,7 +55,7 @@ lots of money.
 
 Large changes should have a test plan, and should be tested by somebody other
 than the developer who wrote the code.
-Creating a thread in the [Bitaltyn discussion forum](https://litecointalk.org/index.php?board=2.0) will allow the Bitaltyn
+Creating a thread in the [Bitaltyn discussion forum](https://bitaltyntalk.org/index.php?board=2.0) will allow the Bitaltyn
 development team members to review your proposal and to provide assistance with creating a test plan. 
 
 
@@ -89,7 +89,7 @@ to see it.
 
 **testnet and regtest modes**
 
-Run with the -testnet option to run with "play litecoins" on the test network, if you
+Run with the -testnet option to run with "play bitaltyns" on the test network, if you
 are testing multi-machine code that needs to operate across the internet.
 
 If you are testing something that can run on one machine, run with the -regtest option.

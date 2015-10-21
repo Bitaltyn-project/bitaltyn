@@ -4,9 +4,9 @@ SUBDIRS = src
 
 GZIP_ENV="-9n"
 
-BITCOIND_BIN=$(top_builddir)/src/litecoind$(EXEEXT)
-BITCOIN_QT_BIN=$(top_builddir)/src/qt/litecoin-qt$(EXEEXT)
-BITCOIN_CLI_BIN=$(top_builddir)/src/litecoin-cli$(EXEEXT)
+BITCOIND_BIN=$(top_builddir)/src/bitaltynd$(EXEEXT)
+BITCOIN_QT_BIN=$(top_builddir)/src/qt/bitaltyn-qt$(EXEEXT)
+BITCOIN_CLI_BIN=$(top_builddir)/src/bitaltyn-cli$(EXEEXT)
 BITCOIN_WIN_INSTALLER=$(PACKAGE)-$(PACKAGE_VERSION)-win$(WINDOWS_BITS)-setup$(EXEEXT)
 
 OSX_APP=Bitaltyn-Qt.app

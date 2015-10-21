@@ -176,7 +176,7 @@
         <translation>საფულე დაშიფრულია</translation>
     </message>
     <message>
-        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
+        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitaltyns from being stolen by malware infecting your computer.</source>
         <translation>ახლა Bitaltyn დაიხურება დაშიფრვის პროცესის დასასრულებლად. გაითვალისწინეთ, რომ დაშიფრვა სრულად ვერ დაიცავს თქვენს ბითქოინებს თქვენს კომპიუტერში შემოპარული მავნე პროგრამების საშუალებით დატაცებისაგან.</translation>
     </message>
     <message>
@@ -375,8 +375,8 @@
         <translation>Bitaltyn Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>გადახდის მოთხოვნა (შეიქმნება QR-კოდები და litecoin: ბმულები)</translation>
+        <source>Request payments (generates QR codes and bitaltyn: URIs)</source>
+        <translation>გადახდის მოთხოვნა (შეიქმნება QR-კოდები და bitaltyn: ბმულები)</translation>
     </message>
     <message>
         <source>&amp;About Bitaltyn Core</source>
@@ -391,8 +391,8 @@
         <translation>გამოყენებული მიღების მისამართებისა და ნიშნულების სიის ჩვენება</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>litecoin: URI-ის ან გადახდის მოთხოვნის გახსნა</translation>
+        <source>Open a bitaltyn: URI or payment request</source>
+        <translation>bitaltyn: URI-ის ან გადახდის მოთხოვნის გახსნა</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1081,8 +1081,8 @@ Address: %4
         <translation>გადახდის მოთხოვნის შეცდომა</translation>
     </message>
     <message>
-        <source>Cannot start litecoin: click-to-pay handler</source>
-        <translation>ვერ გაიშვა litecoin: click-to-pay</translation>
+        <source>Cannot start bitaltyn: click-to-pay handler</source>
+        <translation>ვერ გაიშვა bitaltyn: click-to-pay</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -1688,7 +1688,7 @@ Address: %4
         <translation>შეიყვანეთ ამ მისამართის ნიშნული გამოყენებული მისამართების სიაში დასამატებლად</translation>
     </message>
     <message>
-        <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitaltyn network.</source>
+        <source>A message that was attached to the bitaltyn: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitaltyn network.</source>
         <translation>მესიჯი, რომელიც თან ერთვის მონეტებს:  URI, რომელიც შეინახება ტრანსაქციასთან ერთად თქვენთვის. შენიშვნა: მესიჯი არ გაყვება გადახდას ბითქოინის ქსელში.</translation>
     </message>
     <message>

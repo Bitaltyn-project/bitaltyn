@@ -96,7 +96,7 @@
         <translation>Түрүйвч цоожлогдлоо</translation>
     </message>
     <message>
-        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
+        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitaltyns from being stolen by malware infecting your computer.</source>
         <translation>Цоожлолтын процесыг дуусгахын тулд Биткойн одоо хаагдана. Ѳѳрийн түрүйвчийг цоожлох нь таны биткойнуудыг компьютерийн вирус хулгайлахаас бүрэн сэргийлж чадахгүй гэдгийг санаарай.</translation>
     </message>
     <message>

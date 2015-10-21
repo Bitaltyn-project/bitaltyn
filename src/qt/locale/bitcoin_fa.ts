@@ -152,7 +152,7 @@
         <translation>کیف پول رمزنگاری شد</translation>
     </message>
     <message>
-        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
+        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitaltyns from being stolen by malware infecting your computer.</source>
         <translation>بیت‌کوین هم اکنون بسته می‌شود تا فرایند رمزگذاری را تمام کند. به خاطر داشته باشید که رمزگذاری کردن کیف پول‌تان نمی‌تواند به طور کامل بیت‌کوین‌های شما را در برابر دزدیده شدن توسط بدافزارهایی که احتمالاً رایانهٔ شما را آلوده می‌کنند، محافظت نماید.</translation>
     </message>
     <message>
@@ -777,7 +777,7 @@ Address: %4
         <translation>مدیریت URI</translation>
     </message>
     <message>
-        <source>Cannot start litecoin: click-to-pay handler</source>
+        <source>Cannot start bitaltyn: click-to-pay handler</source>
         <translation>نمی‌توان بیت‌کوین را اجرا کرد: کنترل‌کنندهٔ کلیک-و-پرداخت</translation>
     </message>
     </context>

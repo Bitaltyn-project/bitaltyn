@@ -188,7 +188,7 @@
         <translation>Увядзіце новы пароль для гаманца.&lt;br/&gt;Парольная фраза павинна складацца&lt;b&gt; не меньш чым з дзесяці сімвалаў&lt;/b&gt;, ці &lt;b&gt;больш чым з васьмі слоў&lt;/b&gt;.</translation>
     </message>
     <message>
-        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
+        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitaltyns from being stolen by malware infecting your computer.</source>
         <translation>Bitaltyn зачыняецца дзеля завяршэння працэсса шыфравання. Памятайце, што шыфраванне гаманца цалкам абараняе вашыя сродкі ад скрадання шкоднымі праграмамі якія могуць пранікнуць у ваш камп'ютар.</translation>
     </message>
     <message>
@@ -383,7 +383,7 @@
         <translation>Дапамога</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
+        <source>Request payments (generates QR codes and bitaltyn: URIs)</source>
         <translation>Запатрабаваць плацёж (генеруецца QR-код для біткойн URI)</translation>
     </message>
     <message>

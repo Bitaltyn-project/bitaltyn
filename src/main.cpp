@@ -1639,7 +1639,7 @@ bool FindUndoPos(CValidationState &state, int nFile, CDiskBlockPos &pos, unsigne
 static CCheckQueue<CScriptCheck> scriptcheckqueue(128);
 
 void ThreadScriptCheck() {
-    RenameThread("litecoin-scriptch");
+    RenameThread("bitaltyn-scriptch");
     scriptcheckqueue.Thread();
 }
 

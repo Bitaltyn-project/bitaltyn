@@ -176,8 +176,8 @@
         <translation>Moedeiro encriptado</translation>
     </message>
     <message>
-        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitaltyn se pechará agora para rematar o proceso de encriptación. Lembra que encriptar o teu moedeiro non protexe totalmente os teus litecoins de ser robados por malware que infecte o teu ordenador.</translation>
+        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitaltyns from being stolen by malware infecting your computer.</source>
+        <translation>Bitaltyn se pechará agora para rematar o proceso de encriptación. Lembra que encriptar o teu moedeiro non protexe totalmente os teus bitaltyns de ser robados por malware que infecte o teu ordenador.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -359,8 +359,8 @@
         <translation>Core de Bitaltyn</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Solicitar pagos (xenera códigos QR e litecoin: URIs)</translation>
+        <source>Request payments (generates QR codes and bitaltyn: URIs)</source>
+        <translation>Solicitar pagos (xenera códigos QR e bitaltyn: URIs)</translation>
     </message>
     <message>
         <source>&amp;About Bitaltyn Core</source>
@@ -375,8 +375,8 @@
         <translation>Amosar a listaxe de etiquetas e direccións para recibir empregadas</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Abrir un litecoin: URI ou solicitude de pago</translation>
+        <source>Open a bitaltyn: URI or payment request</source>
+        <translation>Abrir un bitaltyn: URI ou solicitude de pago</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitaltyn network</source>

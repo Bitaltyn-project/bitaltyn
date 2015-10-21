@@ -32,7 +32,7 @@
   <string>Bitaltyn-Qt</string>
 
   <key>CFBundleIdentifier</key>
-  <string>org.litecoin.Bitaltyn-Qt</string>
+  <string>org.bitaltyn.Bitaltyn-Qt</string>
 
   <key>CFBundleURLTypes</key>
   <array>
@@ -40,10 +40,10 @@
       <key>CFBundleTypeRole</key>
       <string>Editor</string>
       <key>CFBundleURLName</key>
-      <string>org.litecoin.BitaltynPayment</string>
+      <string>org.bitaltyn.BitaltynPayment</string>
       <key>CFBundleURLSchemes</key>
       <array>
-        <string>litecoin</string>
+        <string>bitaltyn</string>
       </array>
     </dict>
   </array>
@@ -52,7 +52,7 @@
   <array>
     <dict>
       <key>UTTypeIdentifier</key>
-      <string>org.litecoin.paymentrequest</string>
+      <string>org.bitaltyn.paymentrequest</string>
       <key>UTTypeDescription</key>
       <string>Bitaltyn payment request</string>
       <key>UTTypeConformsTo</key>
@@ -62,10 +62,10 @@
       <key>UTTypeTagSpecification</key>
       <dict>
         <key>public.mime-type</key>
-        <string>application/x-litecoin-payment-request</string>
+        <string>application/x-bitaltyn-payment-request</string>
         <key>public.filename-extension</key>
         <array>
-          <string>litecoinpaymentrequest</string>
+          <string>bitaltynpaymentrequest</string>
         </array>
       </dict>
     </dict>
@@ -78,7 +78,7 @@
       <string>Editor</string>
       <key>LSItemContentTypes</key>
       <array>
-        <string>org.litecoin.paymentrequest</string>
+        <string>org.bitaltyn.paymentrequest</string>
       </array>
       <key>LSHandlerRank</key>
       <string>Owner</string>

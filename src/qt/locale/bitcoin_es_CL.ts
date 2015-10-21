@@ -140,8 +140,8 @@
         <translation>Billetera codificada</translation>
     </message>
     <message>
-        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitaltyn se cerrará para finalizar el proceso de encriptación. Recuerde que encriptar su billetera no protegera completatamente sus litecoins de ser robados por malware que infecte su computador</translation>
+        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitaltyns from being stolen by malware infecting your computer.</source>
+        <translation>Bitaltyn se cerrará para finalizar el proceso de encriptación. Recuerde que encriptar su billetera no protegera completatamente sus bitaltyns de ser robados por malware que infecte su computador</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -236,7 +236,7 @@
     </message>
     <message>
         <source>Bitaltyn Core client</source>
-        <translation>cliente litecoin core</translation>
+        <translation>cliente bitaltyn core</translation>
     </message>
     <message>
         <source>Reindexing blocks on disk...</source>
@@ -244,11 +244,11 @@
     </message>
     <message>
         <source>Send coins to a Bitaltyn address</source>
-        <translation>Enviar monedas a una dirección litecoin</translation>
+        <translation>Enviar monedas a una dirección bitaltyn</translation>
     </message>
     <message>
         <source>Modify configuration options for Bitaltyn</source>
-        <translation>Modifica las opciones de configuración de litecoin</translation>
+        <translation>Modifica las opciones de configuración de bitaltyn</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -308,7 +308,7 @@
     </message>
     <message>
         <source>Bitaltyn Core</source>
-        <translation>litecoin core</translation>
+        <translation>bitaltyn core</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitaltyn network</source>
@@ -490,7 +490,7 @@ Dirección: %4</translation>
     <name>HelpMessageDialog</name>
     <message>
         <source>Bitaltyn Core</source>
-        <translation>litecoin core</translation>
+        <translation>bitaltyn core</translation>
     </message>
     <message>
         <source>version</source>
@@ -518,7 +518,7 @@ Dirección: %4</translation>
     </message>
     <message>
         <source>Bitaltyn Core</source>
-        <translation>litecoin core</translation>
+        <translation>bitaltyn core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1000,7 +1000,7 @@ Dirección: %4</translation>
     <name>SplashScreen</name>
     <message>
         <source>Bitaltyn Core</source>
-        <translation>litecoin core</translation>
+        <translation>bitaltyn core</translation>
     </message>
     <message>
         <source>[testnet]</source>

@@ -67,7 +67,7 @@
     </message>
     <message>
         <source>These are your Bitaltyn addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit zijn uw Bitaltynadressen om betalingen mee te verzenden. Controleer altijd het bedrag en het ontvang adres voordat u uw litecoins verzendt.</translation>
+        <translation>Dit zijn uw Bitaltynadressen om betalingen mee te verzenden. Controleer altijd het bedrag en het ontvang adres voordat u uw bitaltyns verzendt.</translation>
     </message>
     <message>
         <source>These are your Bitaltyn addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
@@ -188,8 +188,8 @@
         <translation>Voer een nieuw wachtwoord in voor uw portomonee.&lt;br/&gt;Gebruik een wachtwoord van &lt;b&gt;tien of meer willekeurige karakters&lt;/b&gt;, of &lt;b&gt;acht of meer woorden&lt;/b&gt;.</translation>
     </message>
     <message>
-        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitaltyn zal nu afsluiten om het versleutelingsproces te voltooien. Onthoudt dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw litecoins stelen.</translation>
+        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitaltyns from being stolen by malware infecting your computer.</source>
+        <translation>Bitaltyn zal nu afsluiten om het versleutelingsproces te voltooien. Onthoudt dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw bitaltyns stelen.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -352,7 +352,7 @@
     </message>
     <message>
         <source>Show information about Bitaltyn Core</source>
-        <translation>Toon informatie over litecoin kern</translation>
+        <translation>Toon informatie over bitaltyn kern</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -395,8 +395,8 @@
         <translation>Bitaltyn Kern</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Vraag betaling aan (genereert QR codes en litecoin: URIs)</translation>
+        <source>Request payments (generates QR codes and bitaltyn: URIs)</source>
+        <translation>Vraag betaling aan (genereert QR codes en bitaltyn: URIs)</translation>
     </message>
     <message>
         <source>&amp;About Bitaltyn Core</source>
@@ -411,8 +411,8 @@
         <translation>Toon de lijst met gebruikte ontvangst adressen en labels</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Open een litecoin: URI of betalingsverzoek</translation>
+        <source>Open a bitaltyn: URI or payment request</source>
+        <translation>Open een bitaltyn: URI of betalingsverzoek</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1261,8 +1261,8 @@ Adres: %4
         <translation>Fout bij betalingsverzoek</translation>
     </message>
     <message>
-        <source>Cannot start litecoin: click-to-pay handler</source>
-        <translation>Kan litecoin niet starten: click-to-pay handler</translation>
+        <source>Cannot start bitaltyn: click-to-pay handler</source>
+        <translation>Kan bitaltyn niet starten: click-to-pay handler</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -1885,8 +1885,8 @@ Adres: %4
         <translation>totaal ten minste</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for litecoin transactions than the network can process.</source>
-        <translation>De minimale toeslag betalen is prima mits het transactievolume kleiner is dan de ruimte in de blokken. Let wel op dat dit tot gevolg kan hebben dat een transactie nooit wordt bevestigd als er meer vraag is naar litecointransacties dan het netwerk kan verwerken.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for bitaltyn transactions than the network can process.</source>
+        <translation>De minimale toeslag betalen is prima mits het transactievolume kleiner is dan de ruimte in de blokken. Let wel op dat dit tot gevolg kan hebben dat een transactie nooit wordt bevestigd als er meer vraag is naar bitaltyntransacties dan het netwerk kan verwerken.</translation>
     </message>
     <message>
         <source>(read the tooltip)</source>
@@ -2124,8 +2124,8 @@ Adres: %4
         <translation>Vul een label voor dit adres in om het aan de lijst met gebruikte adressen toe te voegen</translation>
     </message>
     <message>
-        <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitaltyn network.</source>
-        <translation>Een bericht dat werd toegevoegd aan de litecoin: URI dewelke wordt opgeslagen met de transactie ter referentie. Opmerking: Dit bericht zal niet worden verzonden over het Bitaltyn netwerk.</translation>
+        <source>A message that was attached to the bitaltyn: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitaltyn network.</source>
+        <translation>Een bericht dat werd toegevoegd aan de bitaltyn: URI dewelke wordt opgeslagen met de transactie ter referentie. Opmerking: Dit bericht zal niet worden verzonden over het Bitaltyn netwerk.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>

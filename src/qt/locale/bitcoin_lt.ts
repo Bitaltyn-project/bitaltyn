@@ -152,8 +152,8 @@
         <translation>Piniginė užšifruota</translation>
     </message>
     <message>
-        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitaltyn dabar užsidarys šifravimo proceso pabaigai. Atminkite, kad piniginės šifravimas negali pilnai apsaugoti litecoinų vagysčių kai tinkle esančios kenkėjiškos programos patenka į jūsų kompiuterį.</translation>
+        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitaltyns from being stolen by malware infecting your computer.</source>
+        <translation>Bitaltyn dabar užsidarys šifravimo proceso pabaigai. Atminkite, kad piniginės šifravimas negali pilnai apsaugoti bitaltynų vagysčių kai tinkle esančios kenkėjiškos programos patenka į jūsų kompiuterį.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -272,7 +272,7 @@
     </message>
     <message>
         <source>Modify configuration options for Bitaltyn</source>
-        <translation>Keisti litecoin konfigūracijos galimybes</translation>
+        <translation>Keisti bitaltyn konfigūracijos galimybes</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>

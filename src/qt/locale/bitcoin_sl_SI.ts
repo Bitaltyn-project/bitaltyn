@@ -172,7 +172,7 @@
         <translation>Denarnica šifrirana</translation>
     </message>
     <message>
-        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
+        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitaltyns from being stolen by malware infecting your computer.</source>
         <translation>Bitaltyn se bo zaprl, da bi dokončal proces šifriranja. Zapomnite si, da šifriranje vaše denarnice ne more popolnoma zaščititi pred krajami zlonamernih programov, ki bi lahko bili nameščeni na vašem računalniku.</translation>
     </message>
     <message>
@@ -379,12 +379,12 @@
         <translation>Prikaži seznam uporabljenih sprejemnih naslovov in oznak</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
+        <source>Open a bitaltyn: URI or payment request</source>
         <translation>Odpri Bitaltyn: URI ali zahteva o plačilu</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitaltyn network</source>
-        <translation><numerusform>%n aktivna povezava v litecoin omrežje</numerusform><numerusform>%n aktivni povezavi v litecoin omrežje</numerusform><numerusform>%n aktivnih povezav v litecoin omrežje</numerusform><numerusform>%n aktivnih povezav v litecoin omrežje</numerusform></translation>
+        <translation><numerusform>%n aktivna povezava v bitaltyn omrežje</numerusform><numerusform>%n aktivni povezavi v bitaltyn omrežje</numerusform><numerusform>%n aktivnih povezav v bitaltyn omrežje</numerusform><numerusform>%n aktivnih povezav v bitaltyn omrežje</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>

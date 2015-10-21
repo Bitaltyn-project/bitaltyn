@@ -108,8 +108,8 @@
         <translation>Новчаник је шифрован</translation>
     </message>
     <message>
-        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitaltyn će se sad zatvoriti da bi završio  proces enkripcije. Zapamti da enkripcija tvog novčanika ne može u potpunosti da zaštiti tvoje litecoine da ne budu ukradeni od malawarea koji bi inficirao tvoj kompjuter.</translation>
+        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitaltyns from being stolen by malware infecting your computer.</source>
+        <translation>Bitaltyn će se sad zatvoriti da bi završio  proces enkripcije. Zapamti da enkripcija tvog novčanika ne može u potpunosti da zaštiti tvoje bitaltyne da ne budu ukradeni od malawarea koji bi inficirao tvoj kompjuter.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -196,11 +196,11 @@
     </message>
     <message>
         <source>Send coins to a Bitaltyn address</source>
-        <translation>Пошаљите новац на litecoin адресу</translation>
+        <translation>Пошаљите новац на bitaltyn адресу</translation>
     </message>
     <message>
         <source>Modify configuration options for Bitaltyn</source>
-        <translation>Изаберите могућности litecoin-а</translation>
+        <translation>Изаберите могућности bitaltyn-а</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>

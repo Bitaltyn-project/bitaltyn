@@ -152,8 +152,8 @@
         <translation>Rahakott krüpteeritud</translation>
     </message>
     <message>
-        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitaltyn sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista litecoinide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
+        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitaltyns from being stolen by malware infecting your computer.</source>
+        <translation>Bitaltyn sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista bitaltynide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -792,7 +792,7 @@ Aadress: %4⏎</translation>
         <translation>URI käsitsemine</translation>
     </message>
     <message>
-        <source>Cannot start litecoin: click-to-pay handler</source>
+        <source>Cannot start bitaltyn: click-to-pay handler</source>
         <translation>Bitaltyn ei käivitu: vajuta-maksa toiming</translation>
     </message>
     </context>

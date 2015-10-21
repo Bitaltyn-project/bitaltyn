@@ -184,7 +184,7 @@
         <translation>Введите новый пароль бумажника.&lt;br/&gt;Используйте пароль, состоящий из &lt;b&gt;десяти или более случайных символов&lt;/b&gt;, или &lt;b&gt;восьми или более слов&lt;/b&gt;.</translation>
     </message>
     <message>
-        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
+        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitaltyns from being stolen by malware infecting your computer.</source>
         <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши биткойны от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
     </message>
     <message>
@@ -391,8 +391,8 @@
         <translation>Bitaltyn Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Запросить платежи (создаёт QR-коды и litecoin: ссылки)</translation>
+        <source>Request payments (generates QR codes and bitaltyn: URIs)</source>
+        <translation>Запросить платежи (создаёт QR-коды и bitaltyn: ссылки)</translation>
     </message>
     <message>
         <source>&amp;About Bitaltyn Core</source>
@@ -407,8 +407,8 @@
         <translation>Показать список использованных адресов и меток получения</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Открыть litecoin: URI или запрос платежа</translation>
+        <source>Open a bitaltyn: URI or payment request</source>
+        <translation>Открыть bitaltyn: URI или запрос платежа</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1257,8 +1257,8 @@ Address: %4
         <translation>Ошибка запроса платежа</translation>
     </message>
     <message>
-        <source>Cannot start litecoin: click-to-pay handler</source>
-        <translation>Не удаётся запустить litecoin: обработчик click-to-pay</translation>
+        <source>Cannot start bitaltyn: click-to-pay handler</source>
+        <translation>Не удаётся запустить bitaltyn: обработчик click-to-pay</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -1881,7 +1881,7 @@ Address: %4
         <translation>Итого как минимум</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for litecoin transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for bitaltyn transactions than the network can process.</source>
         <translation>Уплата минимальной комиссии — не проблема, пока объём транзакций меньше, чем свободное место в блоках. Учтите, однако, что такая транзакция может никогда не подтвердиться, если спрос на транзакции превышает возможности сети по их обработке.</translation>
     </message>
     <message>
@@ -2116,8 +2116,8 @@ Address: %4
         <translation>Введите метку для этого адреса, чтобы добавить его в список использованных</translation>
     </message>
     <message>
-        <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitaltyn network.</source>
-        <translation>К litecoin: URI было прикреплено сообщение, которое будет сохранено вместе с транзакцией для вашего сведения. Заметьте: сообщение не будет отправлено через сеть Bitaltyn.</translation>
+        <source>A message that was attached to the bitaltyn: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitaltyn network.</source>
+        <translation>К bitaltyn: URI было прикреплено сообщение, которое будет сохранено вместе с транзакцией для вашего сведения. Заметьте: сообщение не будет отправлено через сеть Bitaltyn.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -3091,10 +3091,10 @@ Address: %4
         <translation>Этот продукт включает ПО, разработанное OpenSSL Project для использования в OpenSSL Toolkit &lt;https://www.openssl.org/&gt; и криптографическое ПО, написанное Eric Young и ПО для работы с UPnP, написанное Thomas Bernard.</translation>
     </message>
     <message>
-        <source>To use litecoind, or the -server option to litecoin-qt, you must set an rpcpassword in the configuration file:
+        <source>To use bitaltynd, or the -server option to bitaltyn-qt, you must set an rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=litecoinrpc
+rpcuser=bitaltynrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -3102,10 +3102,10 @@ If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
 for example: alertnotify=echo %%s | mail -s "Bitaltyn Alert" admin@foo.com
 </source>
-        <translation>Для использования litecoind или опции litecoin-qt -server, вы должны установить опцию rpcpassword в конфигурационном файле:
+        <translation>Для использования bitaltynd или опции bitaltyn-qt -server, вы должны установить опцию rpcpassword в конфигурационном файле:
  %s
 Рекомендуется использовать следующий случайный пароль:
-rpcuser=litecoinrpc
+rpcuser=bitaltynrpc
 rpcpassword=%s
 (вам не нужно запоминать этот пароль)
 Имя и пароль ДОЛЖНЫ различаться.

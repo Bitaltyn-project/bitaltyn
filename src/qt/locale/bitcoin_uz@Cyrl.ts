@@ -184,8 +184,8 @@
         <translation>Ҳамёнга янги махфий сўз киритинг.&lt;br/&gt;Илтимос, &lt;b&gt;ўнта ёки тасодифий белгили&lt;/b&gt; махфий сўздан фойдаланинг ёки &lt;b&gt;саккизта ёки кўпроқ сўзлар&lt;/b&gt;дан фойдаланинг.</translation>
     </message>
     <message>
-        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitaltyn кодлаш жараёнини тугатиш учун ёпилади. Ёдда сақланг: ҳамёнингизни кодлаш компьютерингизни зарарлаган зарарли дастурлар томонидан litecoin тангаларингизни ўғирланишидан тўлиқ ҳимоя қила олмайди.</translation>
+        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitaltyns from being stolen by malware infecting your computer.</source>
+        <translation>Bitaltyn кодлаш жараёнини тугатиш учун ёпилади. Ёдда сақланг: ҳамёнингизни кодлаш компьютерингизни зарарлаган зарарли дастурлар томонидан bitaltyn тангаларингизни ўғирланишидан тўлиқ ҳимоя қила олмайди.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -391,8 +391,8 @@
         <translation>Bitaltyn Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Тўловлар (QR кодлари ва litecoin ёрдамида яратишлар: URI’лар) сўраш</translation>
+        <source>Request payments (generates QR codes and bitaltyn: URIs)</source>
+        <translation>Тўловлар (QR кодлари ва bitaltyn ёрдамида яратишлар: URI’лар) сўраш</translation>
     </message>
     <message>
         <source>&amp;About Bitaltyn Core</source>
@@ -407,7 +407,7 @@
         <translation>Фойдаланилган қабул қилинган манзиллар ва ёрлиқлар рўйхатини кўрсатиш</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
+        <source>Open a bitaltyn: URI or payment request</source>
         <translation>Bitaltyn’ни очиш: URI ёки тўлов сўрови</translation>
     </message>
     <message>

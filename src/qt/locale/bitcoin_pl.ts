@@ -188,8 +188,8 @@
         <translation>Wprowadź nowe hasło do portfela.&lt;br/&gt;Proszę używać hasła złożonego z &lt;b&gt;10 lub więcej losowych znaków&lt;/b&gt; lub &lt;b&gt;ośmiu lub więcej słów.&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Program Bitaltyn zamknie się aby dokończyć proces szyfrowania. Pamiętaj, że szyfrowanie portfela nie zabezpiecza w pełni Twoich litecoinów przed kradzieżą przez wirusy lub trojany mogące zainfekować Twój komputer.</translation>
+        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitaltyns from being stolen by malware infecting your computer.</source>
+        <translation>Program Bitaltyn zamknie się aby dokończyć proces szyfrowania. Pamiętaj, że szyfrowanie portfela nie zabezpiecza w pełni Twoich bitaltynów przed kradzieżą przez wirusy lub trojany mogące zainfekować Twój komputer.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -312,7 +312,7 @@
     </message>
     <message>
         <source>Modify configuration options for Bitaltyn</source>
-        <translation>Zmienia opcje konfiguracji litecoina</translation>
+        <translation>Zmienia opcje konfiguracji bitaltyna</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -395,8 +395,8 @@
         <translation>Rdzeń Bitaltyn</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Żądaj płatności (generuje kod QR oraz litecoin URI)</translation>
+        <source>Request payments (generates QR codes and bitaltyn: URIs)</source>
+        <translation>Żądaj płatności (generuje kod QR oraz bitaltyn URI)</translation>
     </message>
     <message>
         <source>&amp;About Bitaltyn Core</source>
@@ -411,8 +411,8 @@
         <translation>Pokaż listę adresów i etykiet użytych do odbierania</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Otwórz URI litecoin: lub żądanie zapłaty</translation>
+        <source>Open a bitaltyn: URI or payment request</source>
+        <translation>Otwórz URI bitaltyn: lub żądanie zapłaty</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1143,7 +1143,7 @@ Adres: %4
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitaltyn network after a connection is established, but this process has not completed yet.</source>
-        <translation>Wyświetlana informacja może być nieaktualna. Twój portfel synchronizuje się automatycznie z siecią litecoin, zaraz po tym jak uzyskano połączenie, ale proces ten nie został jeszcze ukończony.</translation>
+        <translation>Wyświetlana informacja może być nieaktualna. Twój portfel synchronizuje się automatycznie z siecią bitaltyn, zaraz po tym jak uzyskano połączenie, ale proces ten nie został jeszcze ukończony.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1249,8 +1249,8 @@ Adres: %4
         <translation>Błąd żądania płatności</translation>
     </message>
     <message>
-        <source>Cannot start litecoin: click-to-pay handler</source>
-        <translation>Nie można uruchomić protokołu litecoin: kliknij-by-zapłacić</translation>
+        <source>Cannot start bitaltyn: click-to-pay handler</source>
+        <translation>Nie można uruchomić protokołu bitaltyn: kliknij-by-zapłacić</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>

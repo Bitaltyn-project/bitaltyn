@@ -172,8 +172,8 @@
         <translation>Dompet terenkripsi</translation>
     </message>
     <message>
-        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitaltyn akan menutup untuk menyelesaikan proses enkripsi. Ingat bahwa dengan mengenkripsi dompet Anda tidak sepenuhnya melindungi litecoin Anda dari perangkat lunak berbahaya yang menginfeksi komputer Anda.</translation>
+        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitaltyns from being stolen by malware infecting your computer.</source>
+        <translation>Bitaltyn akan menutup untuk menyelesaikan proses enkripsi. Ingat bahwa dengan mengenkripsi dompet Anda tidak sepenuhnya melindungi bitaltyn Anda dari perangkat lunak berbahaya yang menginfeksi komputer Anda.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -375,8 +375,8 @@
         <translation>Bitaltyn Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Permintaan pembayaran (membangkitkan kode QR dan litecoin: URIs)</translation>
+        <source>Request payments (generates QR codes and bitaltyn: URIs)</source>
+        <translation>Permintaan pembayaran (membangkitkan kode QR dan bitaltyn: URIs)</translation>
     </message>
     <message>
         <source>&amp;About Bitaltyn Core</source>
@@ -391,8 +391,8 @@
         <translation>Tampilkan daftar alamat dan label yang diterima</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Buka URI litecoin: atau permintaan pembayaran</translation>
+        <source>Open a bitaltyn: URI or payment request</source>
+        <translation>Buka URI bitaltyn: atau permintaan pembayaran</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>

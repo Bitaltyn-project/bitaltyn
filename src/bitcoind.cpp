@@ -78,7 +78,7 @@ bool AppInit(int argc, char* argv[])
         else
         {
             strUsage += "\n" + _("Usage:") + "\n" +
-                  "  litecoind [options]                     " + _("Start Bitaltyn Core Daemon") + "\n";
+                  "  bitaltynd [options]                     " + _("Start Bitaltyn Core Daemon") + "\n";
 
             strUsage += "\n" + HelpMessage(HMM_BITCOIND);
         }
@@ -110,12 +110,12 @@ bool AppInit(int argc, char* argv[])
         // Command-line RPC
         bool fCommandLine = false;
         for (int i = 1; i < argc; i++)
-            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "litecoin:"))
+            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "bitaltyn:"))
                 fCommandLine = true;
 
         if (fCommandLine)
         {
-            fprintf(stderr, "Error: There is no RPC client functionality in litecoind anymore. Use the litecoin-cli utility instead.\n");
+            fprintf(stderr, "Error: There is no RPC client functionality in bitaltynd anymore. Use the bitaltyn-cli utility instead.\n");
             exit(1);
         }
 #ifndef WIN32

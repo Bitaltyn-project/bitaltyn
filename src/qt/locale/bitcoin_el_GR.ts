@@ -185,8 +185,8 @@
         <translation>Εισάγετε τον νέο κωδικό πρόσβασης στον πορτοφόλι &lt;br/&gt; Παρακαλώ χρησιμοποιείστε ένα κωδικό με &lt;b&gt; 10 ή περισσότερους τυχαίους χαρακτήρες&lt;/b&gt; ή &lt;b&gt; οχτώ ή παραπάνω λέξεις&lt;/b&gt;.</translation>
     </message>
     <message>
-        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Το Bitaltyn θα κλεισει τώρα για να τελειώσει την διαδικασία κρυπτογραφησης. Θυμησου ότι κρυπτογραφώντας το πορτοφολι σου δεν μπορείς να προστατέψεις πλήρως τα litecoins σου από κλοπή στην περίπτωση όπου μολυνθεί ο υπολογιστής σου με κακόβουλο λογισμικό.</translation>
+        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitaltyns from being stolen by malware infecting your computer.</source>
+        <translation>Το Bitaltyn θα κλεισει τώρα για να τελειώσει την διαδικασία κρυπτογραφησης. Θυμησου ότι κρυπτογραφώντας το πορτοφολι σου δεν μπορείς να προστατέψεις πλήρως τα bitaltyns σου από κλοπή στην περίπτωση όπου μολυνθεί ο υπολογιστής σου με κακόβουλο λογισμικό.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -305,7 +305,7 @@
     </message>
     <message>
         <source>Send coins to a Bitaltyn address</source>
-        <translation>Στείλε νομίσματα σε μια διεύθυνση litecoin</translation>
+        <translation>Στείλε νομίσματα σε μια διεύθυνση bitaltyn</translation>
     </message>
     <message>
         <source>Modify configuration options for Bitaltyn</source>
@@ -392,8 +392,8 @@
         <translation>Bitaltyn Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Αίτηση πληρωμών (δημιουργεί QR codes και διευθύνσεις litecoin: )</translation>
+        <source>Request payments (generates QR codes and bitaltyn: URIs)</source>
+        <translation>Αίτηση πληρωμών (δημιουργεί QR codes και διευθύνσεις bitaltyn: )</translation>
     </message>
     <message>
         <source>&amp;About Bitaltyn Core</source>
@@ -408,8 +408,8 @@
         <translation>Προβολή της λίστας των χρησιμοποιημένων διευθύνσεων και ετικετών λήψεως</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Άνοιγμα litecoin: URI αίτησης πληρωμής</translation>
+        <source>Open a bitaltyn: URI or payment request</source>
+        <translation>Άνοιγμα bitaltyn: URI αίτησης πληρωμής</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1195,7 +1195,7 @@ Address: %4
         <translation>Σφάλμα αιτήματος πληρωμής</translation>
     </message>
     <message>
-        <source>Cannot start litecoin: click-to-pay handler</source>
+        <source>Cannot start bitaltyn: click-to-pay handler</source>
         <translation>Δεν είναι δυνατή η εκκίνηση του Bitaltyn: click-to-pay handler</translation>
     </message>
     <message>

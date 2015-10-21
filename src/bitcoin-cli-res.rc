@@ -19,10 +19,10 @@ BEGIN
             VALUE "CompanyName",        "Bitaltyn"
             VALUE "FileDescription",    "Bitaltyn-cli (OSS RPC client for Bitaltyn)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "litecoin-cli"
+            VALUE "InternalName",       "bitaltyn-cli"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "litecoin-cli.exe"
+            VALUE "OriginalFilename",   "bitaltyn-cli.exe"
             VALUE "ProductName",        "Bitaltyn-cli"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END

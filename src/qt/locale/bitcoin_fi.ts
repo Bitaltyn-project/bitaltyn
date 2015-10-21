@@ -188,7 +188,7 @@
         <translation>Anna salauslause lompakkoon. &lt;br/&gt;Ole hyvä ja käytä lausetta jossa on &lt;b&gt;kymmenen tai enemmän satunnaista merkkiä&lt;/b&gt; tai &lt;b&gt;kahdeksan tai useampi sanaa&lt;/b&gt;.</translation>
     </message>
     <message>
-        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
+        <source>Bitaltyn will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitaltyns from being stolen by malware infecting your computer.</source>
         <translation>Bitaltyn sulkeutuu lopettaakseen salausprosessin. Muista, että salattukaan lompakko ei täysin suojaa sitä haittaohjelmien aiheuttamilta varkauksilta.</translation>
     </message>
     <message>
@@ -395,8 +395,8 @@
         <translation>Bitaltyn-ydin</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Pyydä maksuja (Luo QR koodit ja litecoin: URIt)</translation>
+        <source>Request payments (generates QR codes and bitaltyn: URIs)</source>
+        <translation>Pyydä maksuja (Luo QR koodit ja bitaltyn: URIt)</translation>
     </message>
     <message>
         <source>&amp;About Bitaltyn Core</source>
@@ -411,8 +411,8 @@
         <translation>Näytä vastaanottamiseen käytettyjen osoitteiden ja nimien lista</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Avaa litecoin: URI tai maksupyyntö</translation>
+        <source>Open a bitaltyn: URI or payment request</source>
+        <translation>Avaa bitaltyn: URI tai maksupyyntö</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1099,11 +1099,11 @@ Osoite: %4</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>Yksikkö jona litecoin-määrät näytetään</translation>
+        <translation>Yksikkö jona bitaltyn-määrät näytetään</translation>
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Valitse mitä yksikköä käytetään ensisijaisesti litecoin-määrien näyttämiseen.</translation>
+        <translation>Valitse mitä yksikköä käytetään ensisijaisesti bitaltyn-määrien näyttämiseen.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1260,8 +1260,8 @@ Osoite: %4</translation>
         <translation>Maksupyyntövirhe</translation>
     </message>
     <message>
-        <source>Cannot start litecoin: click-to-pay handler</source>
-        <translation>Ei voida käynnistää litecoin: klikkaa-maksu käsittelijää</translation>
+        <source>Cannot start bitaltyn: click-to-pay handler</source>
+        <translation>Ei voida käynnistää bitaltyn: klikkaa-maksu käsittelijää</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -2087,8 +2087,8 @@ Osoite: %4</translation>
         <translation>Aseta nimi tälle osoitteelle lisätäksesi sen käytettyjen osoitteiden listalle.</translation>
     </message>
     <message>
-        <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitaltyn network.</source>
-        <translation>Viesti joka liitettiin litecoin: URI:iin tallennetaan rahansiirtoon viitteeksi. Tätä viestiä ei lähetetä Bitaltyn-verkkoon.</translation>
+        <source>A message that was attached to the bitaltyn: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitaltyn network.</source>
+        <translation>Viesti joka liitettiin bitaltyn: URI:iin tallennetaan rahansiirtoon viitteeksi. Tätä viestiä ei lähetetä Bitaltyn-verkkoon.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>

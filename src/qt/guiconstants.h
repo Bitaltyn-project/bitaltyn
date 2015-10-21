@@ -45,7 +45,7 @@ static const int MAX_URI_LENGTH = 255;
 #define SPINNER_FRAMES 35
 
 #define QAPP_ORG_NAME "Bitaltyn"
-#define QAPP_ORG_DOMAIN "litecoin.org"
+#define QAPP_ORG_DOMAIN "bitaltyn.org"
 #define QAPP_APP_NAME_DEFAULT "Bitaltyn-Qt"
 #define QAPP_APP_NAME_TESTNET "Bitaltyn-Qt-testnet"
 
